@@ -9,11 +9,20 @@
   },
   {
     "title": "Testando ",
-    "body": "Testando essa coisa fofíssima que meu mohmohlado fez pra mim\nEu te amooo bb!!!",
+    "body": "Testando essa coisa fofÃ­ssima que meu mohmohlado fez pra mim\nEu te amooo bb!!!",
     "date": "2026-02-05",
     "recipient": "Gabs",
     "id": "fe686ddf-2614-4a39-a7a8-bc73f6217710",
     "author": "Laris",
     "createdAt": "2026-02-06T02:05:56.794Z"
+  },
+  {
+    "title": "Testando 2.0",
+    "body": "Vou deixar isso o mais perfeito possível pra minha mohmohlada!!! Eu também te amoooooooo ",
+    "date": "2026-02-06",
+    "recipient": "Laris",
+    "id": "e44acf61-8582-4286-a506-cbe51fab1d5f",
+    "author": "Gabs",
+    "createdAt": "2026-02-06T02:10:03.747Z"
   }
 ]
